@@ -1,0 +1,3 @@
+Total number of words: 10
+Total number of sentences: 4
+Total number of chars: 96
